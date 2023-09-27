@@ -1,4 +1,4 @@
-,Date,Customer_ID,Transaction_ID,SKU_Category,SKU,Quantity,Sales_Amount,Operational_Cost,Customer_Age
+Index,Date,Customer_ID,Transaction_ID,SKU_Category,SKU,Quantity,Sales_Amount,Operational_Cost,Customer_Age
 0,2/1/2022,3686,3,Skirt,CZUZX,1,63.5,44.6,51
 1,2/1/2022,3719,4,Skirt,549KK,1,55.9,41.1,27
 2,2/1/2022,9200,5,Skirt,K8EHH,1,68.8,52.6,39
