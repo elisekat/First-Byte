@@ -8,7 +8,7 @@ lack of fit with current digital trends in the retail space.
 ## What We Used:
 We used Python and Jupyter Notebook to conduct all analysis. Additional libraries used include plotly and pandas. 
 
-## What we Learned:
+## What We Learned:
 - Matching data analysis to business problems
 - Effectively cleaning data
 - Using pandas functions to improve data usability
