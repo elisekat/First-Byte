@@ -6,9 +6,11 @@ The analysis conducted is related to three key problems: a lack of differentatio
 lack of fit with current digital trends in the retail space.
 
 ## What We Used:
-We used Python to conduct all analysis. Additional libraries used include plotly and pandas. 
+We used Python and Jupyter Notebook to conduct all analysis. Additional libraries used include plotly and pandas. 
 
 ## What we learned:
-- How to effectively clean data
-- How to use pandas functions to improve data usability
-- How to use plotly to create user-friendly visuals
+- Matching data analysis to business problems
+- Effectively cleaning data
+- Using pandas functions to improve data usability
+- Using plotly functions  to create user-friendly visuals
+- Using Jupyter Notebook functionality for easier access to data visualizations
