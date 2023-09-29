@@ -9,6 +9,6 @@ lack of fit with current digital trends in the retail space.
 We used Python to conduct all analysis. Additional libraries used include plotly and pandas. 
 
 ## What we learned:
-- how to effectively clean data
-- how to use pandas functions to improve data usability
-- how to use plotly to create user-friendly visuals
+- How to effectively clean data
+- How to use pandas functions to improve data usability
+- How to use plotly to create user-friendly visuals
