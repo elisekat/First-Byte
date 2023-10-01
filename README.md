@@ -5,6 +5,8 @@ We conducted data analysis to support the growth of B/YTÉ, a fictional fashion 
 The analysis conducted is related to three key problems: a lack of differentation from B/YTÉ's key competititors, ineffective supply chain management, and 
 lack of fit with current digital trends in the retail space.
 
+UPDATE: We won third place! 🎉🎉🎉
+
 ## What We Used:
 We used Python and Jupyter Notebook to conduct all analysis. Additional libraries used include plotly and pandas. 
 
