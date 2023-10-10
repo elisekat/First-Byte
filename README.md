@@ -2,7 +2,7 @@
 
 ## What We Did:
 We conducted data analysis to support the growth of B/YTÉ, a fictional fashion company presented to us in the UBC Bolt Datathon "First Byte". 
-The analysis conducted is related to three key problems: a lack of differentation from B/YTÉ's key competititors, ineffective supply chain management, and 
+The analysis conducted is related to three key problems we identified: a lack of differentation from B/YTÉ's key competititors, ineffective supply chain management, and 
 lack of fit with current digital trends in the retail space.
 
 UPDATE: We won third place! 🎉🎉🎉
